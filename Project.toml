@@ -1,0 +1,8 @@
+name = "RSUOptimizationVis"
+uuid = "070487f2-78d7-11e9-37a3-5bd3c3f2d3a6"
+authors = ["Lukasz Krainski <lukasz.krainski123@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+RSUOptimization = "700cc030-571e-11e9-19c5-f738a776ab3c"
